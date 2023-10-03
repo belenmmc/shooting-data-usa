@@ -1,8 +1,3 @@
-# term-project-java-belmoncar
-term-project-java-belmoncar created by GitHub Classroom
-author: Belén María Montes Caro
-Software Engineering, Group 5
-
 
 Name of the dataset: Fatal police shootings data
 URL: https://github.com/washingtonpost/data-police-shootings/blob/master/fatal-police-shootings-data.csv
